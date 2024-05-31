@@ -1,5 +1,5 @@
 # Henge
-Primitives is a generative art project launched through [fxhash](https://www.fxhash.xyz/generative/21570#0x407640000000000001) in collaboration with [Tender](https://tender.art/project/henge) in November, 2022
+Henge is a generative art project launched through [fxhash](https://www.fxhash.xyz/generative/21570#0x407640000000000001) in collaboration with [Tender](https://tender.art/project/henge) in November, 2022
 
 <!-- ![Enlace #11](https://arandalaschstg.wpengine.com/wp-content/uploads/2024/01/Enlace-10-75000011-1536x1536.png ) -->
 <div align="center">
