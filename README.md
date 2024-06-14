@@ -29,7 +29,7 @@ also viewable on our site [here](https://arandalasch.com/tool/henge/)
 
 contains the working files uploaded to fxhash
 
-The random seed can be set on line31 in fxhash-snippet.js
+The random seed can be set on line 31 in fxhash-snippet.js
 
 
 
