@@ -1,0 +1,11 @@
+.vscode/
+# Ignore Prettier configuration files
+.prettierignore
+.prettierrc
+.prettierrc.json
+.prettierrc.yaml
+.prettierrc.yml
+.prettierrc.js
+.prettierrc.toml
+# Ignore Prettier cache
+.prettiercache
